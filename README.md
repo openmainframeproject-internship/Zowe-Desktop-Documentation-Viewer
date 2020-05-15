@@ -13,5 +13,19 @@ a better understanding of the problems you encountered during the developmemnt o
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Mentee's Name* - *University* - Mentee
+- Sean Grady - Rocket Software - Mentor
+- Parth Shandilya - *University* - Mentee
+
+## Deliverables:
+- [ ] Project Plan
+- [ ] 1st Stipend Released
+- [ ] Statement of Work
+- [ ] Architecure/High Level Design
+- [ ] Detailed Design
+- [ ] 2nd Stipend Released
+- [ ] Mid-term Evaluation (by mentor)
+- [ ] Code Project (with comments)
+- [ ] Testing
+- [ ] Video Presentation of the Project
+- [ ] Final Evaluation (by mentor)
+- [ ] 3rd Stipend Released
