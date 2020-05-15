@@ -14,7 +14,7 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - Sean Grady - Rocket Software - Mentor
-- Parth Shandilya - *University* - Mentee
+- Parth Shandilya - Lakshmi Niwas Mittal Institute of Information Technology (LNMIIT) - Mentee
 
 ## Deliverables:
 - [ ] Project Plan
