@@ -8,7 +8,7 @@
 | Week 4 Status Report | Started learning typescript and researching libraries to display documentation | Understood basic typescript |
 | Week 5 Status Report | Typescript learning continued and started working on coversion of a javascript file `plugin-loader` to typescript in zlux-server-framework. Shared the researched libraries with the mentor. | Applied learned concepts while conversion of javascript file to typescript and finalized the libraries to be used in the documentation viewer. |
 | Week 6 Status Report | Typescript learning continued and started working on some basic proof of concept | Pull request is ready to be made and further added changes. |
-| Week 7 Status Report | | |
+| Week 7 Status Report | Took a break due to mid-semster exam | - |
 | Week 8 Status Report | | |
 | Week 9 Status Report | | |
 | Week 10 Status Report | | |
