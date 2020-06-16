@@ -3,9 +3,9 @@
 | Week | Week Tasks | Completed Tasks |
 |---|---|---|
 | Week 1 Status Report | - | Participated in Orientation Session|
-| Week 2 Status Report | Read about Zowe | Call with mentor and planned tasks for coming week|
-| Week 3 Status Report | Setup development environment and install plugins |  Understood how plugins work and done with setup.|
-| Week 4 Status Report | | |
+| Week 2 Status Report | Read about Zowe | Call with mentor and planned tasks for coming week |
+| Week 3 Status Report | Setup development environment and install plugins | Understood how plugins work and done with setup. |
+| Week 4 Status Report | Started learning typescript and researching libraries to display documentation | Understood basic typescript |
 | Week 5 Status Report | | |
 | Week 6 Status Report | | |
 | Week 7 Status Report | | |
