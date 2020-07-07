@@ -22,8 +22,8 @@ a better understanding of the problems you encountered during the development of
 ## Deliverables
 
 - [X] **Project Plan**
-- [ ] 1st Stipend Released
-- [ ] Statement of Work
+- [X] 1st Stipend Released
+- [X] Statement of Work
 - [ ] Architecture/High Level Design
 - [ ] Detailed Design
 - [ ] 2nd Stipend Released
