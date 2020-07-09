@@ -22,10 +22,10 @@ a better understanding of the problems you encountered during the development of
 ## Deliverables
 
 - [X] **Project Plan**
-- [X] 1st Stipend Released
-- [X] Statement of Work
-- [ ] Architecture/High Level Design
-- [ ] Detailed Design
+- [X] **1st Stipend Released**
+- [X] **Statement of Work**
+- [X] **Architecture/High Level Design**
+- [X] **Detailed Design**
 - [ ] 2nd Stipend Released
 - [ ] Mid-term Evaluation (by mentor)
 - [ ] Code Project (with comments)
