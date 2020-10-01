@@ -26,10 +26,10 @@ a better understanding of the problems you encountered during the development of
 - [X] **Statement of Work**
 - [X] **Architecture/High Level Design**
 - [X] **Detailed Design**
-- [ ] 2nd Stipend Released
-- [ ] Mid-term Evaluation (by mentor)
-- [ ] Code Project (with comments)
-- [ ] Testing
+- [X] **2nd Stipend Released**
+- [X] **Mid-term Evaluation (by mentor)**
+- [X] **Code Project (with comments)**
+- [X] **Testing**
 - [ ] Video Presentation of the Project
 - [ ] Final Evaluation (by mentor)
 - [ ] 3rd Stipend Released
